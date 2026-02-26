@@ -1,0 +1,92 @@
+/* เคลียร์ค่าดั้งต้น */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: azure; */
+    background-image: url(Awesome-Website-Background1.jpg);
+}
+/* ตกเเต่ง nav */
+nav ul {
+    list-style-type: none;  /* ลบจดหน้าเมนู */
+    text-align: center;  /* จัดให้อยู่ตรงกลาง */
+}
+
+/* จัดการเมนู */
+ืีืืืืิืืnu ul li  {
+    display: inline; /* จัดเมนให้อยู่เเนวนอน */
+    margin: 0 15px; /* จัดระยะช่องไฟ */
+}
+
+/* จัดลิงค์ link */
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* ตกเเต่ง main */
+main {
+    padding: 20px;
+    text-align: center; /* จัดตรงกลาง */
+}
+/* ตกเเต่ง Head */
+header {
+    background-color: darkgoldenrod;
+    color: blue;
+    padding: 1em 15px;
+}
+/* ตกเเต่งส่วนเมนู */
+ืnav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+/* เเต่ง li */
+nav ul li {
+    display: inline;
+    display: inline; /* ให้เเสดงเเนวนอน */
+    margin: 0 15px; /* การจัดช่องไฟ */
+}
+
+/* เเต่งเมนูลิงค์ a */
+nav ul li a {
+    text-align: none;
+}
+
+/* เเต่ง h1 */
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+/* เเต่ง main */
+h1 {
+    text-align: center;
+    color: blue;
+}
+/* ตกเเต่ง h2 */
+h2 {
+    text-align: center;
+    color: red;
+}
+/* เเต่งภาพ img */
+img {
+    max-width: 30%;
+    height: 100%;
+    margin-top: 20px;
+    border-radius: 15px;
+  }
+/* จัดการส่วน Footer */
+footer {
+    text-align: center;
+    background-color: burlywood;
+    padding: 1em 0;
+}
+
+
+ 
